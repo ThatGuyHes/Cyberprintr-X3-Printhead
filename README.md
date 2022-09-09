@@ -1,5 +1,5 @@
 # Cyberprintr-X3-Printhead
-From video: 
+From video: https://youtu.be/V20B5KyDLhE
 
 This system was inspired by Stratasys 3d printers that lift and cool down the nozzle when switching between Tool 0 and Tool 1. Custom machined parts may not be obtainable for everyone so feel free to mod the heck out of this design. [Don't forget to share ;)]
 
